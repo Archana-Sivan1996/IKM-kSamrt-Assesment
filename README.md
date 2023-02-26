@@ -1,8 +1,11 @@
 # IKM-Ksmart-Online-Assesment
 # To Run the Project
 1.Open VS Code
+
 2.Download the source file from github
+
 3.You will need node and npm installed globally on your machine
+
 # Installation
 npm install 
 To Start Server :
